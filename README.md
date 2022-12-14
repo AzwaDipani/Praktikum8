@@ -75,12 +75,12 @@ ini output jika menginput method (ubah):
 
 7. Terakhir buat method hapus(), yang berfungsi untuk menghapus data berdasarkan nama. Kita bisa menggunakan del untuk menghapus datanya. Seperti sebelumnya, nomor index list yang akan dihapus disesuaikan dengan inputan dari user. Yaitu index nomor ke - (no).
 
-# def hapus(self):
-#        del self.nim[no]
-#        del self.nama[no]
-#       del self.tugas[no]
-#       del self.uts[no]
-#       del self.uas[no]
+def hapus(self):
+        del self.nim[no]
+        del self.nama[no]
+        del self.tugas[no]
+        del self.uts[no]
+        del self.uas[no]
 
 ini output jika menginput method (hapus)
 ![img](picture/pic6.png)
