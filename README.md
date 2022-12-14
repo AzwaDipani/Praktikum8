@@ -4,8 +4,8 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 
 1. Method tambah() untuk menambah data
 2. Method tampilkan() untuk menampilkan data
-3. Method hapus(nama) untuk menghapus data berdasarkan nama
-4. Method ubah(nama) untuk mengubah data berdasarkan nama
+3. Method hapus() untuk menghapus data berdasarkan nama
+4. Method ubah() untuk mengubah data berdasarkan nama
 5. Buat diagram class, flowchart dan penjelasan programnya pada README.md.
 6. Commit dan push repository ke github.
 
