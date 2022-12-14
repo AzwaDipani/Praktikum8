@@ -1,4 +1,4 @@
-### Praktikum8
+# Praktikum8
 
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
@@ -10,13 +10,13 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 6. Commit dan push repository ke github.
 
 
-#### Diagram Class
+## Diagram Class
 ![img](picture/pic1.jpg)
 
-#### Flowchart
+## Flowchart
 ![img](picture/pic2.png)
 
-### Penjelasan Program
+## Penjelasan Program
 
 1. mendeklarasikan sebuah class mahasiswa yang didalamnya terdapat atribut NIM, Nama, nilai tugas, nilai UTS dan nilai UAS. Jangan lupa, untuk mendeklarasikan sebuah class didalam OOP kita harus menggunakan def__init__ dan juga self.
 
@@ -45,4 +45,4 @@ ini output jika menginput method (hapus)
 ![img](picture/pic6.png)
 
 
-##### Sekian dan Terima kasih
+### Sekian dan Terima kasih
